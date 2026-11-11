@@ -1,0 +1,94 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "Username": "alex_smith",
+      "surname": "Smith",
+      "title": "Ноутбук Pro 15",
+      "desc": "Мощный ноутбук для работы и учебы с отличным экраном.",
+      "price": 75000,
+      "img": "https://picsum.photos/id/0/400/300"
+    },
+    {
+      "id": 2,
+      "Username": "maria_i",
+      "surname": "Ivanova",
+      "title": "Беспроводные наушники",
+      "desc": "Наушники с активным шумоподавлением и чистым звуком.",
+      "price": 12000,
+      "img": "https://picsum.photos/id/10/400/300"
+    },
+    {
+      "id": 3,
+      "Username": "john_d",
+      "surname": "Doe",
+      "title": "Смарт-часы 4",
+      "desc": "Стильный гаджет для отслеживания активности и уведомлений.",
+      "price": 18500,
+      "img": "https://picsum.photos/id/20/400/300"
+    },
+    {
+      "id": 4,
+      "Username": "anna_p",
+      "surname": "Petrova",
+      "title": "Кожаный рюкзак",
+      "desc": "Городской рюкзак из натуральной кожи, вместительный и прочный.",
+      "price": 6200,
+      "img": "https://picsum.photos/id/30/400/300"
+    },
+    {
+      "id": 5,
+      "Username": "david_miller",
+      "surname": "Miller",
+      "title": "Механическая клавиатура",
+      "desc": "Игровая клавиатура с RGB подсветкой и тактильными переключателями.",
+      "price": 4500,
+      "img": "https://picsum.photos/id/40/400/300"
+    },
+    {
+      "id": 6,
+      "Username": "elena_sm",
+      "surname": "Smirnova",
+      "title": "Кофеварка рожковая",
+      "desc": "Приготовит идеальный эспрессо и капучино прямо у вас дома.",
+      "price": 14900,
+      "img": "https://picsum.photos/id/50/400/300"
+    },
+    {
+      "id": 7,
+      "Username": "sam_w",
+      "surname": "Wilson",
+      "title": "Фитнес-коврик",
+      "desc": "Нескользящий коврик для йоги и растяжки оптимальной толщины.",
+      "price": 1800,
+      "img": "https://picsum.photos/id/60/400/300"
+    },
+    {
+      "id": 8,
+      "Username": "olga_k",
+      "surname": "Kuznetsova",
+      "title": "Настольная лампа",
+      "desc": "Светодиодная лампа с регулировкой яркости и цветовой температуры.",
+      "price": 2300,
+      "img": "https://picsum.photos/id/70/400/300"
+    },
+    {
+      "id": 9,
+      "Username": "tom_h",
+      "surname": "Harris",
+      "title": "Портативная колонка",
+      "desc": "Влагозащищенная колонка с мощным басом для вечеринок на природе.",
+      "price": 5700,
+      "img": "https://picsum.photos/id/80/400/300"
+    },
+    {
+      "id": 10,
+      "Username": "kate_b",
+      "surname": "Brown",
+      "title": "Увлажнитель воздуха",
+      "desc": "Ультразвуковой увлажнитель с функцией ароматизации помещения.",
+      "price": 3100,
+      "img": "https://picsum.photos/id/90/400/300"
+    }
+  ]
+}
